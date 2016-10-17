@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EPSendMail", "EPSendMail.vbproj", "{F59B39CC-B5B7-411D-9327-F0E3D5B86F7A}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {84733729-F7B3-4002-9C6F-45BBC11B888D}
+		SccProjectUniqueName1 = EPSendMail.vbproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F59B39CC-B5B7-411D-9327-F0E3D5B86F7A}.Debug.ActiveCfg = Debug|.NET
+		{F59B39CC-B5B7-411D-9327-F0E3D5B86F7A}.Debug.Build.0 = Debug|.NET
+		{F59B39CC-B5B7-411D-9327-F0E3D5B86F7A}.Release.ActiveCfg = Release|.NET
+		{F59B39CC-B5B7-411D-9327-F0E3D5B86F7A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
